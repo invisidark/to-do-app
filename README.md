@@ -30,6 +30,7 @@ A clean and minimal to-do list app built with **Node.js**, **Express**, and **EJ
 
 ### 📸 Preview
 
+![App Screenshot](assets/screenshot.png)
 
 
 ---
